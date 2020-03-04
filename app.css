@@ -1,0 +1,8 @@
+.col-sm-3 .cover{
+    border: 5px;
+    border-radius: 10px
+}
+.col-sm-4 .info{
+    margin: 50px;
+    font-size: 25px;
+}
